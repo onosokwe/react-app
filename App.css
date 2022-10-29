@@ -5,9 +5,11 @@ body {
   padding: 0;
   background-color:#e4e9f2;
 }
+
 strong {
   font-weight: 600;
 }
+
 /* accounts */
 .whole_page {
   background-color: rgba(0,0,0,0.7);
@@ -70,6 +72,7 @@ strong {
 .block .fb_input:focus {
   border-color: #139ff0;
 }
+
 .block .fb_btn {
   display: block; 
   width: 360px; 
